@@ -18,3 +18,6 @@ ingredients.forEach(ingredient => {
 });
 
 ingredientsList.appendChild(fragment);
+
+
+
